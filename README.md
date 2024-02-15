@@ -31,8 +31,8 @@ Visualized decision boundaries and feature importance using Matplotlib and Seabo
 Deployed the trained model for wine quality prediction, aiding winemakers in assessing wine batches.
 
 ## Repository Structure
-* **Data:** Contains the raw and preprocessed wine dataset.
-* **Notebooks/:** Jupyter notebooks detailing data preprocessing, model implementation, training, evaluation, and visualization.
+* **WineQT:** Contains the raw and preprocessed wine dataset.
+* **Wine Quality Analysis:** Jupyter notebook detailing data preprocessing, model implementation, training, evaluation, and visualization.
 * **README.md:** Overview of the project, steps, tools, and libraries used.
 ## Usage
 Clone the repository.
